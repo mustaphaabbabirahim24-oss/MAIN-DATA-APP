@@ -1,0 +1,9 @@
+{
+  "name": "main-data-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Secure Netlify Functions backend for MAIN DATA",
+  "engines": {
+    "node": ">=18"
+  }
+}
